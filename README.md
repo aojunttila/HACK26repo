@@ -1,2 +1,0 @@
-# HACK26repo
-hackathon
